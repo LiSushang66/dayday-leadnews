@@ -1,0 +1,9 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.dayday.common.exception.ExceptionCatch,\
+  com.dayday.common.swagger.SwaggerConfiguration,\
+  com.dayday.common.swagger.Swagger2Configuration,\
+  com.dayday.common.aliyun.GreenImageScan,\
+  com.dayday.common.aliyun.GreenTextScan,\
+  com.dayday.common.tess4j.Tess4jClient,\
+  com.dayday.common.redis.CacheService,\
+  com.dayday.common.jackson.InitJacksonConfig

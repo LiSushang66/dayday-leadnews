@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dayday-file-starter" />
+        <module name="dayday-leadnews-comment" />
+        <module name="dayday-leadnews-admin-gateway" />
+        <module name="dayday-leadnews-common" />
+        <module name="dayday-leadnews-admin" />
+        <module name="dayday-leadnews-app-gateway" />
+        <module name="dayday-leadnews-search" />
+        <module name="dayday-leadnews-user" />
+        <module name="dayday-leadnews-wemedia" />
+        <module name="dayday-leadnews-feign-api" />
+        <module name="dayday-leadnews-wemedia-gateway" />
+        <module name="dayday-leadnews-utils" />
+        <module name="dayday-leadnews-article" />
+        <module name="dayday-leadnews-model" />
+        <module name="dayday-leadnews-schedule" />
+        <module name="dayday-leadnews-behavior" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="es-init" target="1.8" />
+      <module name="freemarker-demo" target="1.8" />
+      <module name="heima-leadnews-alarm" target="1.8" />
+      <module name="heima-leadnews-apis" target="1.8" />
+      <module name="heima-leadnews-seata" target="1.8" />
+      <module name="heima-leadnews-service" target="1.8" />
+      <module name="kafka-demo" target="1.8" />
+      <module name="minio-demo" target="1.8" />
+      <module name="mongo-demo" target="1.8" />
+      <module name="task-demo" target="1.8" />
+      <module name="tess4j-demo" target="1.8" />
+      <module name="xxljob-demo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="dayday-file-starter" options="-parameters" />
+      <module name="dayday-leadnews" options="" />
+      <module name="dayday-leadnews-admin" options="-parameters" />
+      <module name="dayday-leadnews-admin-gateway" options="-parameters" />
+      <module name="dayday-leadnews-app-gateway" options="-parameters" />
+      <module name="dayday-leadnews-article" options="-parameters" />
+      <module name="dayday-leadnews-basic" options="-parameters" />
+      <module name="dayday-leadnews-behavior" options="-parameters" />
+      <module name="dayday-leadnews-comment" options="-parameters" />
+      <module name="dayday-leadnews-common" options="" />
+      <module name="dayday-leadnews-feign-api" options="" />
+      <module name="dayday-leadnews-gateway" options="-parameters" />
+      <module name="dayday-leadnews-model" options="" />
+      <module name="dayday-leadnews-schedule" options="-parameters" />
+      <module name="dayday-leadnews-search" options="-parameters" />
+      <module name="dayday-leadnews-service" options="-parameters" />
+      <module name="dayday-leadnews-test" options="" />
+      <module name="dayday-leadnews-user" options="-parameters" />
+      <module name="dayday-leadnews-utils" options="" />
+      <module name="dayday-leadnews-wemedia" options="-parameters" />
+      <module name="dayday-leadnews-wemedia-gateway" options="-parameters" />
+      <module name="es-init" options="-parameters" />
+      <module name="freemarker-demo" options="-parameters" />
+      <module name="heima-leadnews-alarm" options="-parameters" />
+      <module name="heima-leadnews-apis" options="-parameters" />
+      <module name="heima-leadnews-seata" options="-parameters" />
+      <module name="heima-leadnews-service" options="-parameters" />
+      <module name="kafka-demo" options="-parameters" />
+      <module name="minio-demo" options="-parameters" />
+      <module name="mongo-demo" options="-parameters" />
+      <module name="task-demo" options="-parameters" />
+      <module name="tess4j-demo" options="-parameters" />
+      <module name="xxljob-demo" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dayday-leadnews-basic/dayday-file-starter/dayday-file-starter.iml" filepath="$PROJECT_DIR$/dayday-leadnews-basic/dayday-file-starter/dayday-file-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dayday-leadnews.iml" filepath="$PROJECT_DIR$/dayday-leadnews.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dayday-leadnews-service/dayday-leadnews-admin/dayday-leadnews-admin.iml" filepath="$PROJECT_DIR$/dayday-leadnews-service/dayday-leadnews-admin/dayday-leadnews-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dayday-leadnews-gateway/dayday-leadnews-app-gateway/dayday-leadnews-app-gateway.iml" filepath="$PROJECT_DIR$/dayday-leadnews-gateway/dayday-leadnews-app-gateway/dayday-leadnews-app-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dayday-leadnews-service/dayday-leadnews-comment/dayday-leadnews-comment.iml" filepath="$PROJECT_DIR$/dayday-leadnews-service/dayday-leadnews-comment/dayday-leadnews-comment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dayday-leadnews-common/dayday-leadnews-common.iml" filepath="$PROJECT_DIR$/dayday-leadnews-common/dayday-leadnews-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dayday-leadnews-service/dayday-leadnews-schedule/dayday-leadnews-schedule.iml" filepath="$PROJECT_DIR$/dayday-leadnews-service/dayday-leadnews-schedule/dayday-leadnews-schedule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dayday-leadnews-service/dayday-leadnews-search/dayday-leadnews-search.iml" filepath="$PROJECT_DIR$/dayday-leadnews-service/dayday-leadnews-search/dayday-leadnews-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dayday-leadnews-service/dayday-leadnews-service.iml" filepath="$PROJECT_DIR$/dayday-leadnews-service/dayday-leadnews-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dayday-leadnews-service/dayday-leadnews-user/dayday-leadnews-user.iml" filepath="$PROJECT_DIR$/dayday-leadnews-service/dayday-leadnews-user/dayday-leadnews-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dayday-leadnews-gateway/dayday-leadnews-wemedia-gateway/dayday-leadnews-wemedia-gateway.iml" filepath="$PROJECT_DIR$/dayday-leadnews-gateway/dayday-leadnews-wemedia-gateway/dayday-leadnews-wemedia-gateway.iml" />
+    </modules>
+  </component>
+</project>
